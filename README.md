@@ -5,7 +5,7 @@
 Install with the command:
 
 ```
-npm instrall --save devcamp-js-footer
+npm install --save devcamp-js-footer
 ```
 
 Add to a JavaScript Project with the folling code:
